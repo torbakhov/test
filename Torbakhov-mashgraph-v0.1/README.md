@@ -1,7 +1,10 @@
 <<<<<<< HEAD:Torbakhov-mashgraph-v0.1/README.md
 <<<<<<< HEAD:Torbakhov-mashgraph-v0.1/README.md
+<<<<<<< HEAD:Torbakhov-mashgraph-v0.1/README.md
 дубль 2
 
+=======
+>>>>>>> parent of 2cfd725... .:README.md
 =======
 >>>>>>> parent of 2cfd725... .:README.md
 =======
