@@ -1,1 +1,0 @@
-Сборка с установленным cmake через run.bat на Windows и run на Linux
